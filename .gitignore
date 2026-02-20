@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+**/com.ptc.vuforia.engine-11.4.4.tgz
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
