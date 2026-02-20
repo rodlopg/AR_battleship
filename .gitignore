@@ -4,6 +4,9 @@
 #
 **/com.ptc.vuforia.engine-11.4.4.tgz
 **/VuforiaConfiguration.asset
+Assets/Resources/VuforiaConfiguration.asset
+
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
