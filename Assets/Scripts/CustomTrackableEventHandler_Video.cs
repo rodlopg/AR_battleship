@@ -5,7 +5,7 @@ using UnityEngine.Video;
 
 
 
-public class CustomTrackableEventHandler : DefaultObserverEventHandler
+public class CustomTrackableEventHandler_Video : DefaultObserverEventHandler
 {
 
     public bool isVideoEnabled;
